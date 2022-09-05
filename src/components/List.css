@@ -1,0 +1,8 @@
+li {
+    color: brown;
+    list-style: none;
+}
+
+.first {
+    display: flex;
+}
